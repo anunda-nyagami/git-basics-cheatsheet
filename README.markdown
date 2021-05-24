@@ -21,7 +21,7 @@ _In case you've missed, there's a list of our most used commands and shortcuts i
 | commit                       | Saving all staged files/directories to your local repository                                                            |
 | branch                       | An independent line of development, so you can develop features isolated from each other. Master branch is the default. |
 | clone                        | Local version of a repository, including all commits and branches                                                       |
-| remote                       | Common repository on eg. Github that all team members to keep that changes in sync with                                 |
+| remote                       | Common repository e.g. on Github that all team members use to keep their changes in sync                                |
 | fork                         | Copy of a repository owned by a different user                                                                          |
 | pull request                 | A method of submitting contributions to a repository                                                                    |
 | HEAD                         | Represents your current working directory                                                                               |
